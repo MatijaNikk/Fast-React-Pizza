@@ -21,6 +21,9 @@
 * For routing - react-router-dom
 * For styling - Tailwind
 
+ ###!Note:
+ The app is made with a remote API, so if the API stops working or changes its URL, the app wont work too.
+
 ## Project preview
 
 
